@@ -54,22 +54,22 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = 'gaada'
 global.povo = 'gaada'
 global.pgopay = 'gaada'
-global.ppulsa = '60147366955 maxis'
-global.ppulsa2 = '60147366955 maxis'
+global.ppulsa = '085862754807 maxis'
+global.ppulsa2 = '085862754807 maxis'
 global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601121071453'
-global.nomorown = '60147366955'
-global.namebot = 'Sasyi'
-global.nameown = 'Sasyi By Putbotz'
+global.nomorbot = '085862754807'
+global.nomorown = '085862754807'
+global.namebot = 'Xyz-md'
+global.nameown = 'Xyz-md By Nopanbotz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['60147366955'],
   ['601169466091'],
-  ['60147366955', 'Sasyi by Putbotz ! 🦖', true]
+  ['60147366955', 'Xy-md by nopanbotz ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '© Sasyi' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Sasyi By Putbotz'
+global.wm = '© xʏᴢ-ᴍᴅ' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘xʏᴢ-ᴍᴅ🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺XYZ-MD By Nopan'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
@@ -175,7 +175,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'yahaha wahyu'
-global.stickauth = `putganteng yagesya☂`
+global.stickauth = `nopanganteng yagesya☂`
 
 global.multiplier = 999 // The higher, The harder levelup
 
